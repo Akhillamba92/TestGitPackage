@@ -5,5 +5,6 @@ public class Class1 {
 		System.out.println("hi");
 		System.out.println("1st change");
 		System.out.println("2nd change");
+		System.out.println("3rd change");
 	}
 }
