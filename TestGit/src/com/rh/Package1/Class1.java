@@ -7,5 +7,7 @@ public class Class1 {
 		System.out.println("2nd change");
 		System.out.println("3rd change");
 		System.out.println("4th change");
+		System.out.println("5th change");
+		System.out.println("6th change");
 	}
 }
